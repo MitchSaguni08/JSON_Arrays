@@ -1,1 +1,26 @@
-
+{
+  "students": [
+    {
+      "name": "Christian Hope Cedeno",
+      "age": 20,
+      "quotes": "Live life to the fullest."
+    },
+    {
+      "name": "Monkey D Luffy",
+      "age": 19,
+      "quotes": "If you're Hungry Eat."
+    }
+  ],
+  "studentinfo": [
+    {
+      "classsection": "Section A",
+      "sectioncode": "A001",
+      "buksuemail": "christianhope@buksu.edu.ph"
+    },
+    {
+      "classsection": "Section B",
+      "sectioncode": "B002",
+      "buksuemail": "pirateking@buksu.edu.ph"
+    }
+  ]
+}
