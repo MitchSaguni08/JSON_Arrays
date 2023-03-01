@@ -1,26 +1,26 @@
 {
   "students": [
     {
-      "name": "Mitch Samontisa Saguni",
-      "age": 21,
-      "quotes": "Patience is a key element of success."
+       "name" : "Mitch Samontisa Saguni",
+       "age" : 21,
+       "quotes" : "Patience is a key element of success."
     },
     {
-      "name": "Jhon Robert Carciller Obra",
-      "age": 22,
-      "quotes": "If you can dream it, you can achieve it."
+       "name" : "Jhon Robert Carciller Obra",
+       "age" : 22,
+       "quotes" : "If you can dream it, you can achieve it."
     }
   ],
   "studentinfo": [
     {
-      "classsection": "BSIT 3A",
-      "sectioncode": "T221",
-      "buksuemail": "1901102440@student.buksu.edu.ph"
+       "classsection" : "BSIT 3A",
+       "sectioncode" : "T221",
+       "buksuemail" : "1901102440@student.buksu.edu.ph"
     },
     {
-      "classsection": "BSIT 4G",
-      "sectioncode": "T000",
-      "buksuemail": "sagunimitch08@gmail.com"
+       "classsection" : "BSIT 4G",
+       "sectioncode" : "T000",
+       "buksuemail" : "sagunimitch08@gmail.com"
     }
   ]
 }
