@@ -1,26 +1,26 @@
 {
   "students": [
     {
-      "name": "Christian Hope Cedeno",
-      "age": 20,
-      "quotes": "Live life to the fullest."
+      "name": "Mitch Samontisa Saguni",
+      "age": 21,
+      "quotes": "Patience is a key element of success."
     },
     {
-      "name": "Monkey D Luffy",
-      "age": 19,
-      "quotes": "If you're Hungry Eat."
+      "name": "Jhon Robert Carciller Obra",
+      "age": 22,
+      "quotes": "If you can dream it, you can achieve it."
     }
   ],
   "studentinfo": [
     {
-      "classsection": "Section A",
-      "sectioncode": "A001",
-      "buksuemail": "christianhope@buksu.edu.ph"
+      "classsection": "BSIT 3A",
+      "sectioncode": "T221",
+      "buksuemail": "1901102440@student.buksu.edu.ph"
     },
     {
-      "classsection": "Section B",
-      "sectioncode": "B002",
-      "buksuemail": "pirateking@buksu.edu.ph"
+      "classsection": "BSIT 4G",
+      "sectioncode": "T000",
+      "buksuemail": "sagunimitch08@gmail.com"
     }
   ]
 }
